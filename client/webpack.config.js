@@ -27,6 +27,7 @@ module.exports = () => {
         swDest: 'src-sw.js',
       }),
       new WebpackPwaManifest({
+        fingerprints: false,
         name: 'Just Another Text Editor',
         short_name: 'jate',
         description: 'Offline text editor!',
