@@ -30,9 +30,9 @@ Live deployed on [Heroku!](https://pwa-text-editor-2-23.herokuapp.com/)
 
 ## Images:
 
-App retrieving database, injecting to editor, and successfully saving to DB.:  
+<!-- App retrieving database, injecting to editor, and successfully saving to DB.:  
 
-![Screenshot of Text Editor](./Assets/text-I.jpg)
+![Screenshot of Text Editor](./Assets/text-I.jpg) -->
 
 App's `manifest.json` file:  
 
