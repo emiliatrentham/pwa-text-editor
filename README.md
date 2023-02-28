@@ -28,24 +28,24 @@ To use this app go to the link provided below.  For offline use, go to the link 
 Live deployed on [Heroku!](https://pwa-text-editor-2-23.herokuapp.com/)
 
 
-<!-- ## Images:
+## Images:
 
 App retrieving database, injecting to editor, and successfully saving to DB.:  
 
-![Screenshot of Text Editor](./client/src/images/text-I.jpg)
+![Screenshot of Text Editor](./Assets/text-I.jpg)
 
 App's `manifest.json` file:  
 
-![Screenshot of Text Editor](./client/src/images/manifest.jpg)
+![Screenshot of Text Editor](./Assets/manifest.png)
 
 App's registered `service worker`:  
 
-![Screenshot of Text Editor](./client/src/images/service-workers.jpg)
+![Screenshot of Text Editor](./Assets/service-worker.png)
 
 App's `IndexedDB` storage:  
 
-![Screenshot of Text Editor](./client/src/images/text-II.jpg)
- -->
+![Screenshot of Text Editor](./Assets/IndexedDB.png)
+
 
 ## Technologies Used:
 
