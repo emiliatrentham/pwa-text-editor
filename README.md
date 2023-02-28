@@ -1,8 +1,8 @@
 # pwa-text-editor (Just Another Text Editor)
 
 ![License Badge](https://img.shields.io/badge/license-MIT-brightgreen)
-![Last Commit to Current Repo](https://img.shields.io/github/last-commit/emiliatrentham/employee-tracker)
-![Commits a month](https://img.shields.io/github/commit-activity/m/emiliatrentham/OOP-team-profile-generator)
+![Last Commit to Current Repo](https://img.shields.io/github/last-commit/emiliatrentham/pwa-text-editor)
+![Commits a month](https://img.shields.io/github/commit-activity/m/emiliatrentham/pwa-text-editor)
 
 ------
 
