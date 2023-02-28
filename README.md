@@ -36,7 +36,7 @@ App retrieving database, injecting to editor, and successfully saving to DB.:
 
 App's `manifest.json` file:  
 
-![Screenshot of Text Editor](./Assets/manifest.png)
+![Screenshot of Text Editor](./Assets/Manifest.png)
 
 App's registered `service worker`:  
 
